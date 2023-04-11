@@ -125,7 +125,7 @@ export const makeSdTailwindConfig = ({
         files: [
           {
             destination:
-              type !== 'all' ? `${type}.tailwind.js` : 'tailwind.config.js',
+              type !== 'all' ? `${type}.tailwind.cjs` : 'tailwind.config.cjs',
             format: 'tailwindFormat'
           }
         ]
