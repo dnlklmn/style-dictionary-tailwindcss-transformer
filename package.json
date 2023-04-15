@@ -19,9 +19,6 @@
     "type": "git",
     "url": "git+https://github.com/nado1001/style-dictionary-tailwindcss-transformer.git"
   },
-  "bugs": {
-    "url": "https://github.com/nado1001/style-dictionary-tailwindcss-transformer/issues"
-  },
   "files": [
     "dist"
   ],
